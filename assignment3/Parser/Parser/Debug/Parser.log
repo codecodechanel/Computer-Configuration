@@ -1,0 +1,10 @@
+﻿  parser_tab.c
+  main.c
+  lex.yy.c
+lex.yy.c(1615): warning C4996: 'fileno': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fileno. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2450): note: 'fileno' 선언을 참조하십시오.
+  ReportError.c
+c:\mine\college\4학년 1학기\컴파일러구성\assignment3\parser\parser\reporterror.c(11): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다...
+  Parser.vcxproj -> C:\mine\college\4학년 1학기\컴파일러구성\assignment3\Parser\Debug\Parser.exe
+  Parser.vcxproj -> C:\mine\college\4학년 1학기\컴파일러구성\assignment3\Parser\Debug\Parser.pdb (Full PDB)

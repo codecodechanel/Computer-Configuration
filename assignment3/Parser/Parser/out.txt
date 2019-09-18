@@ -1,0 +1,24 @@
+=====ERROR REPORT=====
+=================================
+
+ no error
+
+
+
+
+[[HASH TABLE]]
+
+HASH CODE   21: (main : function name, return type = int, line9 )
+
+HASH CODE   38: (temp : integer scalar var, line3 )
+
+HASH CODE   43: (swap : function name, return type = void, line2 )
+
+HASH CODE   85: (num1 : integer scalar var, line2 )
+
+HASH CODE   86: (num2 : integer scalar var, line2 )
+
+
+
+
+ <   25 characters are used in the string table > 

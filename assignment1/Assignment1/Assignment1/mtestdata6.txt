@@ -1,0 +1,10 @@
+This is for string overflow test
+string should be very veryvery long
+how long could a string be
+The cat ate a bowl:of cereal.
+My dog likes to ride roller coasters.
+His sister jumped on an octopus
+He wants to buy a cake for his frog
+That house is full of monkeys
+I like to eat my cereal in a shoe
+My friend is a monster

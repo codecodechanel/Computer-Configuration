@@ -1,0 +1,9 @@
+int main(void)	{
+	//2019 compiler!!
+	
+	const int a = 8;
+	int A = 0x12 + 011; //hex + oct
+	while(A >= 10){
+	}
+	return 0;
+}

@@ -1,0 +1,10 @@
+#include <stdio.h> 
+
+void main(VOID) {
+
+	//string str1 = "";
+	string str1 = "\"";
+	string str2 = "blah blah";
+	if( !flag )		
+		printf("%s\n", str1 + str2 + str1;);
+}

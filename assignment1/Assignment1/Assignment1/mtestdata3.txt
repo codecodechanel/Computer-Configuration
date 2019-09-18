@@ -1,0 +1,3 @@
+Hi, for seperator test:or;for testing errors?no!
+each identifier.is.seperated,with:seperators;
+Right?

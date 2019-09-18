@@ -1,0 +1,9 @@
+﻿  lex.yy.c
+lex.yy.c(1376): warning C4996: 'fileno': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fileno. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2450): note: 'fileno' 선언을 참조하십시오.
+lex.yy.c(1567): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+lex.yy.c(1614): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+lex.yy.c(1632): warning C4013: 'realloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+lex.yy.c(1642): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  ParserLab.vcxproj -> C:\Users\CSE_125-2\Desktop\ParserLab\Debug\ParserLab.exe
+  ParserLab.vcxproj -> C:\Users\CSE_125-2\Desktop\ParserLab\Debug\ParserLab.pdb (Full PDB)

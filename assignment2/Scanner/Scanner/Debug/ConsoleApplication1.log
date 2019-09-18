@@ -1,0 +1,5 @@
+﻿  Hstables.c
+c:\mine\college\4학년 1학기\컴파일러구성\과제2\consoleapplication1\consoleapplication1\hstables.c(9): warning C4133: '함수': 'char *'과(와) 'FILE *' 사이의 형식이 호환되지 않습니다.
+c:\mine\college\4학년 1학기\컴파일러구성\과제2\consoleapplication1\consoleapplication1\hstables.c(48): warning C4554: '|': 연산자 우선 순위에 오류가 있는지 확인하십시오. 괄호를 사용하여 우선 순위를 명확하게 지정하십시오.
+  ConsoleApplication1.vcxproj -> C:\mine\college\4학년 1학기\컴파일러구성\과제2\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\mine\college\4학년 1학기\컴파일러구성\과제2\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)

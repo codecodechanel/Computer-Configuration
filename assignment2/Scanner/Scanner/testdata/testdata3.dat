@@ -1,0 +1,7 @@
+/* average of 2integers */
+float average(int a, int b)
+{	
+	int tooLongIdent = 0X13; 
+	float result = (a + b) / 2.0000f;	
+	return result;
+}

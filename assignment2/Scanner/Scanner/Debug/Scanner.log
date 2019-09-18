@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.c
+c:\mine\college\4학년 1학기\컴파일러구성\assignment2\scanner\scanner\main.c(17): warning C4013: 'strlen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\mine\college\4학년 1학기\컴파일러구성\assignment2\scanner\scanner\main.c(18): warning C4013: 'ReadID'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\mine\college\4학년 1학기\컴파일러구성\assignment2\scanner\scanner\main.c(30): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\mine\college\4학년 1학기\컴파일러구성\assignment2\scanner\scanner\main.c(14): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\mine\college\4학년 1학기\컴파일러구성\assignment2\scanner\scanner\main.c(63): warning C4013: 'yylex'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Scanner.vcxproj -> C:\mine\college\4학년 1학기\컴파일러구성\assignment2\Scanner\Scanner\Debug\Scanner.exe
+  Scanner.vcxproj -> C:\mine\college\4학년 1학기\컴파일러구성\assignment2\Scanner\Scanner\Debug\Scanner.pdb (Full PDB)
